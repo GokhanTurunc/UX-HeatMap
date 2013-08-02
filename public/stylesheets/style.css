@@ -1,0 +1,22 @@
+@import "reset.css";
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+a {
+  color: #00b7ff;
+}
+#photo {
+  width: 800px;
+  margin: 0 auto;
+}
+#heatMapArea {
+  width: 800px;
+  height: 450px;
+  float: left;
+}
+#heatMapArea img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 800px;
+}
